@@ -1,5 +1,5 @@
 # nand2tetris
-This is my implementation of the projects in the [nand2tetris course](https://www.coursera.org/learn/build-a-computer)
+This is my implementation of the projects in the [nand2tetris course](https://www.nand2tetris.org/)
 
 # hardware
 
